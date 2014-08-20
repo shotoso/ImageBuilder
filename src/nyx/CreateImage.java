@@ -23,8 +23,8 @@ import org.apache.sanselan.formats.tiff.write.TiffOutputSet;
 public class CreateImage {
 
   static int START = 0;
-  static int COUNT = 1000;
-  static int GPS_CUTOFF = 10;
+  static int COUNT = 5;
+  static int GPS_CUTOFF = 2;
   static double longitude;
   static double latitude;
 
